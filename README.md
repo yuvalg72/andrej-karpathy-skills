@@ -1,3 +1,15 @@
+## Fork provenance
+
+This repository is a fork of [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills). Original authorship belongs to the upstream project and its contributors; this repository does not claim first-party authorship of inherited work.
+
+- **Local purpose:** A reference snapshot of the Karpathy-inspired Claude Code and Cursor guidelines.
+- **Local changes:** Before this notice, this fork was identical to upstream; the local change is this provenance notice.
+- **Sync model:** At the 2026-10-05 review, GitHub compared upstream `main` with this fork's `main`: **0 commits ahead / 0 commits behind**, before this notice. This fork is maintained as a reference snapshot; upstream updates require explicit review and are not assumed to be synchronized automatically.
+- **License and attribution:** The inherited README declares MIT, but no standalone LICENSE file is present in this snapshot. That declaration is preserved; a complete license grant and copyright notice remain unverified.
+- **Links and releases:** The installation commands below install upstream (including its historical forrestchang namespace), not this fork.
+
+---
+
 # Karpathy-Inspired Claude Code Guidelines
 
 > Check out my new project [Multica](https://github.com/multica-ai/multica) — an open-source platform for running and managing coding agents with reusable skills.
